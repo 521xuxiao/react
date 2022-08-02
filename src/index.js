@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 
-import App from './study/13-父子组件之间的通讯';
+import App from './study/26-PureComponent';
 
 import "./static/main.css"
 
