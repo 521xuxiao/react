@@ -1,0 +1,9 @@
+.active{
+    color: aqua;
+}
+
+/*写在module.css中会被react包裹一层，类似于vue中的scoped 如果不想让react加选择器的名字，可以这样写 如下*/
+
+:global(.test) {
+
+}
