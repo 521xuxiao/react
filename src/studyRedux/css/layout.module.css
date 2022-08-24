@@ -1,0 +1,7 @@
+.ul1{
+    display: flex;
+}
+.li1{
+    margin: 0 10px;
+    cursor: pointer;
+}
