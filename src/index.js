@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 
 import { Provider } from "react-redux"
 
-import App from './studyReactRedux/App';
+import App from './study/33_memo';
 
 import "./static/main.css"
 import { store, persistor } from "./studyReactRedux/reactRedux/index";
